@@ -15,6 +15,11 @@
             Hello World
             
         </TextBlock>
+        <TextBlock FontSize="100"
+                   VerticalAlignment="Bottom"
+                   HorizontalAlignment="Center" FontFamily="Bradley Hand ITC">
+            Goodbye world
+        </TextBlock>
         
     </Grid>
 </Window>
